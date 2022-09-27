@@ -50,7 +50,7 @@ I looked at the distribution of the data and the value counts for various catego
 
 # Data Visualization 
 After exploring the data, i then visualized it on Jupiter notebook using python and also on power BI.
-Checkout the full project here [Suicide_Rate(1987-2016)](https://github.com/oluwayemisi1/World_Suicide_Rate/blob/main/suicides%20Rate%20(1).ipynb).
+Checkout the full project here [Suicide_Rate(1987-2016)](https://github.com/na-crypto/suicide_rate_analysis/blob/master/suicides%20Rate%20(1).ipynb).
 ![suicide](https://user-images.githubusercontent.com/48946643/185757434-9a701ef8-a76b-4534-9ae9-cccea2abeb44.PNG)
 
 
